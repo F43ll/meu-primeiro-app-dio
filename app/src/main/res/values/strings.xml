@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Meu_Primeiro_App_DIO</string>
-    <string name="data">10/07/2023</string>
+    <string name="data">28/07/2023</string>
     <string name="Assinatura">Rafael Ribeiro</string>
     <string name="Titulo">Internacionalização</string>
     <string name="texto">A ideia de internacionalizar o app é muito boa, afinal o usuário verá o texto no seu idioma nativo</string>
