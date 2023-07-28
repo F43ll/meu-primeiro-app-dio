@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.rr_apps.meu_primeiro_app_dio'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.rr_apps.meu_primeiro_app_dio"
