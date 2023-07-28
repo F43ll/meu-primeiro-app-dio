@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu_Primeiro_App_DIO</string>
+    <string name="data">10/07/2023</string>
+    <string name="Assinatura">Rafael Ribeiro</string>
+    <string name="Titulo">internacionalización</string>
+    <string name="texto">La idea de internacionalizar la app es muy buena, al fin y al cabo el usuario verá el texto en su idioma nativo</string>
+    <string name="rodape">Espero que haya alcanzado la expectativa.</string>
+</resources>
