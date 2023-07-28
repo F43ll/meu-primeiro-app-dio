@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Meu_Primeiro_App_DIO</string>
-    <string name="data">10/07/2023</string>
+    <string name="data">28/07/2023</string>
     <string name="Assinatura">Rafael Ribeiro</string>
     <string name="Titulo">Internationalization</string>
     <string name="texto">The idea of internationalizing the app is very good, after all the user will see the text in their native language</string>
